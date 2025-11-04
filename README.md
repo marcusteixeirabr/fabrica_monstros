@@ -14,9 +14,19 @@ Precisamos identificar alguns monstros do planeta Zuron, baseando-nos nas descri
 
 ## **Monstros Classificados (Exemplos)**
 
-* **Franken Wackus:** Note o formato de cabeça "Franken" e predominância de características "Wackus". ![Franken Wacrus](https://drive.google.com/file/d/1jYcTVm7YNLgZ7d9y3kyC25rlnV-9s4sW/view?usp=drive_link)
-* **Zombos Vegitas:** Assim chamado porque ele tem classificação de cabeça "Zombos" e predominância de características "Vegitas". ![Zombos Vegitas](https://drive.google.com/file/d/1R6lVcbb746SrIE5a1GM7imhLBgW0QdqO/view?usp=drive_link)
-* **Monstro da Família Happy:** Sua cabeça tem um formato "Happy" distinto, enquanto suas características faciais são predominantemente "Spritem". ![Happy Spritem](https://drive.google.com/file/d/110bJ-X5NXCMO-e87ZVpOJhkPNFk2HzM7/view?usp=sharing)
+* **Franken Wackus:** Note o formato de cabeça "Franken" e predominância de características "Wackus".
+
+<img width="78" height="90" alt="FrankenWacrus" src="https://github.com/user-attachments/assets/b1f912b4-9161-42d3-ad26-2beed7fbf5c0" />
+
+* **Zombos Vegitas:** Assim chamado porque ele tem classificação de cabeça "Zombos" e predominância de características "Vegitas".
+
+<img width="92" height="89" alt="ZombosVegitas" src="https://github.com/user-attachments/assets/58c80aff-3ecb-4ea4-a109-7839297087d1" />
+
+* **Monstro da Família Happy:** Sua cabeça tem um formato "Happy" distinto, enquanto suas características faciais são predominantemente 
+"Spritem".
+
+<img width="88" height="86" alt="HappySpritem" src="https://github.com/user-attachments/assets/8209c730-9d38-4dcb-92b4-e1214c77f735" />
+
 
 ## **Objetivo**
 
