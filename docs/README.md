@@ -376,11 +376,11 @@ git branch
 
 Escolha sua IDE favorita e veja instruções específicas:
 
-- [Visual Studio Code](TUTORIAL_VSCODE.md) ⚡ (Mais popular!)
-- [Visual Studio](TUTORIAL_VISUAL_STUDIO.md) 🎯
-- [CLion](TUTORIAL_CLION.md) 🧠
-- [Code::Blocks](TUTORIAL_CODEBLOCKS.md) 📦
-- [Git no Terminal](TUTORIAL_TERMINAL.md) 💻 (Modo raiz!)
+- [Visual Studio Code](Git-VSCode.md) ⚡ (Mais popular!)
+- Visual Studio 🎯
+- CLion 🧠
+- Code::Blocks (Não possui integração com Git) 📦
+- [Git no Terminal](Git-Terminal.md) 💻 (Modo raiz!)
 
 ---
 
