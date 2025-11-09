@@ -3,4 +3,5 @@ project(fabrica_monstros C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(fabrica_monstros main.c)
+add_executable(fabrica_monstros main.c monstro.c
+    cores.c)

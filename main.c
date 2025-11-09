@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include "monstro.h"
+#include "cores.h"
 
 int main(void) {
-
+    
+    
     return 0;
 }
 
@@ -34,3 +37,4 @@ int determinarFamilia(int const *buffer) {
     }
     return vencedor;
 }
+
