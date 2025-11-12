@@ -8,6 +8,20 @@ int main(void) {
     return 0;
 }
 
+int lerInteiroValido(char *pergunta,int min,int max) {
+    int input;
+    printf("%s",pergunta); // Printa a pergunta
+    do {
+        if (scanf("%d", &input) == 1) { // Se a escolha do usuario eh um inteiro entao
+            if (input >= min && input <= max) { 
+                return input;
+            }
+        }
+        printf("Numero fora do intervalo (%d a %d). Tente novamente.\n", min, max);
+        while (getchar() != '\n');
+    } while (1);
+}
+
 int determinarFamilia(int const *buffer) {
     int wackus = 0, vegitas = 0, spritem = 0;
     for (int i = 1; i < 6; i++) {
