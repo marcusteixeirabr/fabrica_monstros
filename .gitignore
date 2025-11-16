@@ -7,7 +7,7 @@
 *.bin
 *.iso
 *.img
-*.exe
+
 *.msi
 
 # Logs
