@@ -22,3 +22,6 @@
 
 #logs
 .log
+
+#  arquivo tasks.json do VSCode
+tasks.json
