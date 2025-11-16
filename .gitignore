@@ -1,0 +1,21 @@
+# Arquivos grandes e binários
+*.rpm
+*.tar
+*.gz
+*.zip
+*.7z
+*.bin
+*.iso
+*.img
+*.exe
+*.msi
+
+# Logs
+*.log
+
+# Compilados
+*.o
+*.out
+
+# VSCode
+.vscode/
